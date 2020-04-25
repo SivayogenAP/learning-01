@@ -1,0 +1,42 @@
+h1 {
+  color:black;
+  text-align: center;
+  }
+h2 {
+  color:orange;
+  text-align:left;
+  }
+p {
+   color:oblack;
+   text-align:left;
+ }
+#top
+ {
+   background-color: yellow;
+   width:auto;
+   ;
+ }
+ #top{
+    font-family: Arial, sans-serif;
+    font-size: : 14px;
+    font-weight: bold;
+    padding: 30px;
+    margin:: 40px;
+  }
+  table
+  {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: : 50%
+  }
+  th,td
+  {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  }
+  th
+  {
+    background-color: #50755a;
+
+  }
